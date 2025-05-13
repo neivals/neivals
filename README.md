@@ -1,4 +1,6 @@
-## Hi there 👋
+Esse é o arquivo necessário para compartilhar ao mundo quem eu sou
+
+Meu nome é Thiago Neiva e eu sou um estudante CESAR
 
 <!--
 **neivals/neivals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
