@@ -3,7 +3,10 @@
 ## Sou um aluno no primeiro período na Cesar School, realizando a graduação no curso de Ciência da Computação
 
 ### *PROFICIÊNCIAS*
-### Tenho domínio sobre a língua inglesa e atualmente estou estudando as linguagens de progamação JavaScript, Python e C++
+- Domínio sobre a língua inglesa
+- Básicos de JavaScript
+- Proficiência em Python
+- Básicos de C+
 
 ### *PROJETOS*
 ### No momento estou participando da produção de um código em C++ utilizado por uma placa ESP32 que tem como objetivo adaptar um jogo infantil para incluir pessoas com surdez na brincadeira 
