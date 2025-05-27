@@ -1,7 +1,6 @@
-# Esse é o arquivo necessário para compartilhar ao mundo quem eu sou
-# <img align="right" alt="Banner" width="700" src="https://i.ibb.co/s9s0HwKk/banner-3.png">
+# <img align="center" alt="Banner" width="700" src="https://i.ibb.co/s9s0HwKk/banner-3.png">
 
-## Meu nome é **Thiago Neiva** e eu sou um estudante CESAR
+
 
 <!--
 **neivals/neivals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
