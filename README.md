@@ -1,5 +1,7 @@
 # <img align="center" alt="Banner" width="700" src="https://i.ibb.co/s9s0HwKk/banner-3.png">
 
+## Sou um aluno no primeiro período na Cesar School, realizando a graduação no curso de Ciência da Computação
+### Tenho domínio sobre a língua inglesa e atualmente estou estudando JavaScript, Python e C++
 
 
 <!--
