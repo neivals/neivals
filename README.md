@@ -4,6 +4,10 @@
 ### Tenho domínio sobre a língua inglesa e atualmente estou estudando JavaScript, Python e C++
 
 
+### Minhas conquistas no Github:
+[![trophy](https://github-profile-trophy.vercel.app/?username=neivals)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **neivals/neivals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
