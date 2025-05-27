@@ -1,6 +1,6 @@
 # <img align="center" alt="Banner" width="1000" src="https://i.ibb.co/s9s0HwKk/banner-3.png">
 ## **INTRODUÇÃO**
-## Sou um aluno no primeiro período na Cesar School, realizando a graduação no curso de Ciência da Computação
+- Sou um aluno no primeiro período da faculdade na Cesar School, realizando a graduação no curso de Ciência da Computação
 
 ### *PROFICIÊNCIAS*
 - Domínio sobre a língua inglesa
