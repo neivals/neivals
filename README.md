@@ -1,4 +1,5 @@
 # Esse é o arquivo necessário para compartilhar ao mundo quem eu sou
+<img align="right" alt="Coding" width="400" src="">
 
 ## Meu nome é **Thiago Neiva** e eu sou um estudante CESAR
 
