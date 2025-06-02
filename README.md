@@ -9,8 +9,9 @@
 - Básicos de C+
 
 ### *PROJETOS*
-### No momento estou participando da produção de um código em C++ utilizado por uma placa ESP32 que tem como objetivo adaptar um jogo infantil para incluir pessoas com surdez na brincadeira 
-
+### No momento estou participando da produção de um código em C++ utilizado por uma placa ESP32 que tem como objetivo adaptar um jogo infantil para incluir pessoas com surdez na brincadeira
+### Ja criei um jogo No-Code na plataforma Bitsy, usando das ferramentas para criar uma aventura com Puzzles
+[Jogo Bitsy](https://thiagoneiva.itch.io/aventura-nos-sonhos)
 ### *CONQUISTAS*
 [![trophy](https://github-profile-trophy.vercel.app/?username=neivals)](https://github.com/ryo-ma/github-profile-trophy)
 
