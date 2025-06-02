@@ -14,7 +14,8 @@
 ### *CONQUISTAS*
 [![trophy](https://github-profile-trophy.vercel.app/?username=neivals)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+### Linkedin
+[Linkedin](https://www.linkedin.com/in/neivals/ "Linkedin")
 <!--
 **neivals/neivals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
